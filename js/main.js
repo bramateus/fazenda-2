@@ -24,7 +24,7 @@ $(document).ready(function(){
 
 	$.ajax({
 		type: 'GET',
-		url: 'http://raw.githubusercontent.com/r7com/frontend-test/master/public/fazenda.json',
+		url: 'fazenda.json',
 		data: 'json',
 		contentType: "application/json; charset=utf-8",
 		crossDomain: true,
