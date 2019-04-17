@@ -1,0 +1,19 @@
+@media (min-width: 376px) and (max-width: 425px) {
+
+	.view {
+	  margin: 0 auto;
+	  width: 530px;
+	}
+
+	.font {
+		font-size: 12px;
+	}
+
+	.card__item {
+		padding: 1.3rem 0.5rem;
+		background: white;
+		cursor: pointer;
+		transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+	}
+
+}

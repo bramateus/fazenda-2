@@ -15,7 +15,7 @@
       "__id": "7b1dd3f58be97715e9e06475bb58fce5",
       "timestamp": 1408396481826,
       "name": "Gominho",
-      "description": "Fofoqueiro de Plant„o",
+      "description": "Fofoqueiro de Plant√£o",
       "picture": "http://im.r7.com/record/files/2C96/1618/3F6E/369D/013F/72F7/CF15/5F4B/Gominho1.jpg",
       "positive": "23249923",
       "negative": "39587707"
@@ -25,7 +25,7 @@
       "__id": "70580002438b08c63286d08b7c43fb4c",
       "timestamp": 1408396545027,
       "name": "Yudi Tamashiro",
-      "description": "Apresentador e Ìdolo teen",
+      "description": "Apresentador e √≠dolo teen",
       "picture": "http://im.r7.com/record/files/2C96/1617/3F6E/32AE/013F/72FD/87BB/4436/Yudi1.jpg",
       "positive": 59089056,
       "negative": 14772265
@@ -34,7 +34,7 @@
       "__id": "3404c4a70e7704009cd1915a349189f4",
       "timestamp": 1408396555971,
       "name": "Andressa Urach",
-      "description": "Personalidade da mÌdia",
+      "description": "Personalidade da m√≠dia",
       "picture": "http://im.r7.com/record/files/2C96/1618/3F6E/369D/013F/72EF/C598/41DC/Andressa1.jpg",
       "positive": null,
       "age": 32
@@ -42,7 +42,7 @@
     {
       "__id": "c97686edbeb8df774a567e9884f4d490",
       "timestamp": 1408396562866,
-      "name": "B·rbara Evans",
+      "name": "B√°rbara Evans",
       "description": "Modelo e filha de Monique Evans",
       "picture": "http://im.r7.com/record/files/2C96/1618/3F6E/369D/013F/72F6/B48C/5BBD/B%C3%A1rbaraEvans1.jpg",
       "positive": 69274684,
@@ -53,9 +53,20 @@
       "timestamp": 14083965628566,
       "name": "Braulio",
       "description": "Developer",
-      "picture": "https://s2.glbimg.com/sauGjdEsUtAKdLihkf_QuvTGIHY=/smart/e.glbimg.com/og/ed/f/original/2019/02/19/bradley-cooper-oscar-2019-mike-marsland.jpg",
-      "positive": 99274684,
-      "negative": 14465480
+      "picture": "https://trecobox.com.br/wp-content/uploads/2019/03/the-batman-rumores-logo-filme.jpg",
+      "positive": 9,
+      "negative": 1
+    },
+    {
+      "__id": "c97686edbeb8df7742a56s7e9884f4d4940",
+      "timestamp": 140839656285626,
+      "name": "Marcelo",
+      "description": "Developer 2",
+      "picture": "https://www.thewrap.com/wp-content/uploads/2017/07/Robert-Downey-Jr-Iron-Man-Pepper-Potts-Tony-Stark.jpg",
+      "positive": 8,
+      "negative": 2
     }
+
+
   ]
 }
